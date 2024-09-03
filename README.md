@@ -1,1 +1,1 @@
-# Deep-Learning-For-NLP-Pre-req-
+# ANN Project Implementation - Churn Modelling-
